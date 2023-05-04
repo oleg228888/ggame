@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 929fac918c7b2544485e6dbc3031c7b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4695093737948792025
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_0
+  - first:
+      213: 4140282412901531726
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_1
+  - first:
+      213: 7348868842630482246
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_2
+  - first:
+      213: 2071340310716429302
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_3
+  - first:
+      213: 4544276239457008139
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_4
+  - first:
+      213: 1338721825217334852
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_5
+  - first:
+      213: 6290898772947527723
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_6
+  - first:
+      213: -288378270377041226
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_7
+  - first:
+      213: 1371744631566815892
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_8
+  - first:
+      213: -6251708704346907544
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_9
+  - first:
+      213: -8467871981537726929
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_10
+  - first:
+      213: -111160593794473270
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_11
+  - first:
+      213: -9200064301967830408
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_12
+  - first:
+      213: -633651965649713853
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_13
+  - first:
+      213: 935187353152227387
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_14
+  - first:
+      213: -1854661871498568337
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_15
+  - first:
+      213: 482126830611477744
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_16
+  - first:
+      213: -5705515490094247726
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_17
+  - first:
+      213: -1068375551261231203
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_18
+  - first:
+      213: -680316556011547991
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_19
+  - first:
+      213: 8901217358569235182
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_20
+  - first:
+      213: 8748142032640554882
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_21
+  - first:
+      213: 5443852367733908625
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_22
+  - first:
+      213: -7729763319945951722
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_23
+  - first:
+      213: 2668801729820287668
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_24
+  - first:
+      213: 4742753198830265127
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_25
+  - first:
+      213: 2736061297637120587
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_26
+  - first:
+      213: -4953467571088503052
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_27
+  - first:
+      213: 7110193887647454223
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_28
+  - first:
+      213: 7952730077900434764
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_29
+  - first:
+      213: 8895602786004542364
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_30
+  - first:
+      213: -6845136237693886036
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_31
+  - first:
+      213: 5797265624497159846
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_32
+  - first:
+      213: 8071655271163876548
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_33
+  - first:
+      213: 3411112755353022924
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_34
+  - first:
+      213: 3587577861991685616
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_35
+  - first:
+      213: 226337767226567911
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_36
+  - first:
+      213: -8652545427983684387
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_37
+  - first:
+      213: 3726054969694338166
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_38
+  - first:
+      213: 6244457737583740945
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_39
+  - first:
+      213: 4176168680186296114
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_40
+  - first:
+      213: -5899512379407898016
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_41
+  - first:
+      213: 6763003041939253036
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_42
+  - first:
+      213: -5112732414517723012
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_43
+  - first:
+      213: 4238412369761202341
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_44
+  - first:
+      213: -211640344001067536
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_45
+  - first:
+      213: -7473244574962734548
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_46
+  - first:
+      213: -8543031348882783084
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_47
+  - first:
+      213: 3647348036136425230
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_48
+  - first:
+      213: -2775510398167252652
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_49
+  - first:
+      213: 3365312494312169946
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_50
+  - first:
+      213: 1319527847866188506
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_51
+  - first:
+      213: -3836940737531542884
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_52
+  - first:
+      213: 2647446709530994291
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_53
+  - first:
+      213: -7925839375591209514
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_54
+  - first:
+      213: -1642573275326255707
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_55
+  - first:
+      213: -2170810866857716162
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_56
+  - first:
+      213: -3717829181815797707
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_57
+  - first:
+      213: 2831630234532179832
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_58
+  - first:
+      213: -2427993803319098132
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_59
+  - first:
+      213: -5896994932208571651
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_60
+  - first:
+      213: -8003365369315919978
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_61
+  - first:
+      213: -5958901930725370607
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_62
+  - first:
+      213: -8970045381813384867
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_63
+  - first:
+      213: 1650453560011365749
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_64
+  - first:
+      213: -2390074197187613366
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_65
+  - first:
+      213: 1554910789568004418
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_66
+  - first:
+      213: 2885101216850808032
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_67
+  - first:
+      213: 5172103428009673539
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_68
+  - first:
+      213: 7097119954084160890
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_69
+  - first:
+      213: 1628778119473703368
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_70
+  - first:
+      213: 1092620909692046066
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_71
+  - first:
+      213: 1839718813079078527
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_72
+  - first:
+      213: 4153244102832783312
+    second: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 876
+        width: 216
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb66afe1da7deb0800000000000000
+      internalID: -4695093737948792025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 876
+        width: 110
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e400bca1bec357930800000000000000
+      internalID: 4140282412901531726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 876
+        width: 111
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490de1c64d6cf560800000000000000
+      internalID: 7348868842630482246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 876
+        width: 121
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33335c901eebc10800000000000000
+      internalID: 2071340310716429302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 876
+        width: 104
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3516c923801f30800000000000000
+      internalID: 4544276239457008139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 876
+        width: 108
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e442d3868149210800000000000000
+      internalID: 1338721825217334852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 876
+        width: 111
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286a777a13cd4750800000000000000
+      internalID: 6290898772947527723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 876
+        width: 117
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b22c31bd797ffbf0800000000000000
+      internalID: -288378270377041226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 876
+        width: 114
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492d61f797a690310800000000000000
+      internalID: 1371744631566815892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 876
+        width: 116
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c5f2e6e087d39a0800000000000000
+      internalID: -6251708704346907544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_10
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 876
+        width: 115
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee5f82c431c7a80800000000000000
+      internalID: -8467871981537726929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_11
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 876
+        width: 120
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ebd56704157ef0800000000000000
+      internalID: -111160593794473270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_12
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 876
+        width: 112
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872947ae24ec25080800000000000000
+      internalID: -9200064301967830408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_13
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 876
+        width: 110
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345883cf4e0d437f0800000000000000
+      internalID: -633651965649713853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_14
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 876
+        width: 109
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38831f51f37afc00800000000000000
+      internalID: 935187353152227387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 673
+        width: 106
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dddd2badae246e0800000000000000
+      internalID: -1854661871498568337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 673
+        width: 106
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4384b4ccbd0b600800000000000000
+      internalID: 482126830611477744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 673
+        width: 109
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0917014efe1d0b0800000000000000
+      internalID: -5705515490094247726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 673
+        width: 109
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97bc5cb81e5c21f0800000000000000
+      internalID: -1068375551261231203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 673
+        width: 118
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a25d1062b70f86f0800000000000000
+      internalID: -680316556011547991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_20
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 673
+        width: 103
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee26f06e60a778b70800000000000000
+      internalID: 8901217358569235182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 673
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287343c34d4a76970800000000000000
+      internalID: 8748142032640554882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_22
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 673
+        width: 108
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194e27cb2e27c8b40800000000000000
+      internalID: 5443852367733908625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_23
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 673
+        width: 115
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61607cce63d5ab490800000000000000
+      internalID: -7729763319945951722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_24
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 673
+        width: 110
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e2e9880d790520800000000000000
+      internalID: 2668801729820287668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_25
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 673
+        width: 112
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72320a9f7e4a1d140800000000000000
+      internalID: 4742753198830265127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_26
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 673
+        width: 110
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ada51014178f520800000000000000
+      internalID: 2736061297637120587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_27
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 673
+        width: 116
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe4ada1d7fb14bb0800000000000000
+      internalID: -4953467571088503052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_28
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 673
+        width: 106
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04516d5bab7ca260800000000000000
+      internalID: 7110193887647454223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_29
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 673
+        width: 106
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4de1d7ded5cd5e60800000000000000
+      internalID: 7952730077900434764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_30
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 673
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93a6ca5a97837b70800000000000000
+      internalID: 8895602786004542364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 447
+        width: 107
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca12a11ebd03101a0800000000000000
+      internalID: -6845136237693886036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 447
+        width: 107
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae7cb8ce56047050800000000000000
+      internalID: 5797265624497159846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 447
+        width: 108
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4d12324b7440070800000000000000
+      internalID: 8071655271163876548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 447
+        width: 109
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1fe976af4b65f20800000000000000
+      internalID: 3411112755353022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_35
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 447
+        width: 117
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd114ce03a9c130800000000000000
+      internalID: 3587577861991685616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_36
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 447
+        width: 99
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6bc6000d142300800000000000000
+      internalID: 226337767226567911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 447
+        width: 98
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2a12c6cbfbe780800000000000000
+      internalID: -8652545427983684387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_38
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 447
+        width: 91
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cb532e04b95b330800000000000000
+      internalID: 3726054969694338166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_39
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 447
+        width: 98
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1184e9f4a35c8a650800000000000000
+      internalID: 6244457737583740945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_40
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 447
+        width: 95
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237bd90d94bb4f930800000000000000
+      internalID: 4176168680186296114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_41
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 447
+        width: 106
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6f557fb8b02ea0800000000000000
+      internalID: -5899512379407898016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_42
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 447
+        width: 107
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27eca94f630bdd50800000000000000
+      internalID: 6763003041939253036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_43
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 447
+        width: 112
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70cb0915fceb09b0800000000000000
+      internalID: -5112732414517723012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_44
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 447
+        width: 104
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0fc3f189dd1da30800000000000000
+      internalID: 4238412369761202341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_45
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 447
+        width: 106
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5ccab7a3a101df0800000000000000
+      internalID: -211640344001067536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_46
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 447
+        width: 106
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a2bbd67a3b94890800000000000000
+      internalID: -7473244574962734548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 218
+        width: 103
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c0d8404e017980800000000000000
+      internalID: -8543031348882783084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 313
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075122e6bbfd9230800000000000000
+      internalID: 3647348036136425230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 218
+        width: 103
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45186d68ff76b79d0800000000000000
+      internalID: -2775510398167252652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 218
+        width: 103
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad129a522edf3be20800000000000000
+      internalID: 3365312494312169946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_51
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 218
+        width: 102
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2cc432697ef4210800000000000000
+      internalID: 1319527847866188506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_52
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 218
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92053b6ab270cac0800000000000000
+      internalID: -3836940737531542884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 218
+        width: 86
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3762f5b61ce9db420800000000000000
+      internalID: 2647446709530994291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_54
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 218
+        width: 87
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5051fa413c10290800000000000000
+      internalID: -7925839375591209514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_55
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 218
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ade0ae0f486439e0800000000000000
+      internalID: -1642573275326255707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_56
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 218
+        width: 103
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36536e940bbfd1e0800000000000000
+      internalID: -2170810866857716162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_57
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 218
+        width: 90
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538c94a9e0e976cc0800000000000000
+      internalID: -3717829181815797707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_58
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 218
+        width: 96
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87feb8812b8fb4720800000000000000
+      internalID: 2831630234532179832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_59
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 218
+        width: 96
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c05cff780e4ed0800000000000000
+      internalID: -2427993803319098132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_60
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 218
+        width: 107
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaed6f4a5aa92ea0800000000000000
+      internalID: -5896994932208571651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_61
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 218
+        width: 98
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f24aa9955ee090800000000000000
+      internalID: -8003365369315919978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_62
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 218
+        width: 99
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11599bff34abd4da0800000000000000
+      internalID: -5958901930725370607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_63
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 218
+        width: 102
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5941e5204ff38380800000000000000
+      internalID: -8970045381813384867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d91c2b4c697e610800000000000000
+      internalID: 1650453560011365749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 17
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2ec94e20c4ded0800000000000000
+      internalID: -2390074197187613366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 17
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418f95ff17249510800000000000000
+      internalID: 1554910789568004418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 17
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec80735540f90820800000000000000
+      internalID: 2885101216850808032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_68
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 46
+        width: 151
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343c8103aa007c740800000000000000
+      internalID: 5172103428009673539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_69
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 57
+        width: 148
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75e58ffef80e7260800000000000000
+      internalID: 7097119954084160890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_70
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 16
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9a82de1159a9610800000000000000
+      internalID: 1628778119473703368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_71
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 17
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2facb5cade4c92f00800000000000000
+      internalID: 1092620909692046066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_72
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 16
+        width: 114
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f768e24638ef78910800000000000000
+      internalID: 1839718813079078527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669940052_4-pibig-info-p-zombi-sprait-pinterest-5_73
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 49
+        width: 142
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df75d6b18943a930800000000000000
+      internalID: 4153244102832783312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
